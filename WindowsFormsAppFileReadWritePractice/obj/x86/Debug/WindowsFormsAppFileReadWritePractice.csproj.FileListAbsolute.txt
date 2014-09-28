@@ -1,0 +1,10 @@
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\bin\Debug\WindowsFormsAppFileReadWritePractice.exe
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\bin\Debug\WindowsFormsAppFileReadWritePractice.pdb
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\obj\x86\Debug\WindowsFormsAppFileReadWritePractice.Form1.resources
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\obj\x86\Debug\WindowsFormsAppFileReadWritePractice.Properties.Resources.resources
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\obj\x86\Debug\WindowsFormsAppFileReadWritePractice.exe
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\obj\x86\Debug\WindowsFormsAppFileReadWritePractice.pdb
+C:\Users\miraz\Desktop\C#Practice Office\WindowsFormsAppFileReadWritePractice\WindowsFormsAppFileReadWritePractice\bin\Debug\CSVLib.dll
